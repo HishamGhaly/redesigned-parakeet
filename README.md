@@ -21,8 +21,7 @@ Rating Level
 Satisfied Level
 Technologies Used
 Power BI: For dashboard creation and data visualization
-Excel: For initial data exploration and cleansing
-SQL: For querying and transforming data (if applicable)
+
 Project Outcomes
 Improved HR decision-making through data-driven insights.
 Enhanced understanding of employee satisfaction and performance dynamics.
